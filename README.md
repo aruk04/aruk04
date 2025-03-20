@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Arushi Katta!
 
-## 📬 Connect with me
+## 📬 Connect with me on LinkedIn!
 <p align="center">
   <a href="https://www.linkedin.com/in/arushi-katta"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ashirkatta@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
